@@ -20,7 +20,7 @@ Hi there! I'm Freddy, a Mathematics and Environmental student at the University 
 
 ### 📬 Let's Connect!
 - 🌐 [LinkedIn](www.linkedin.com/in/ziyuan-wang-65808b323) 
-- 📧 Email: yourname@email.com
+- 📧 Email: freddy.ziyuan.wang@gmail.com
 - 📝 [Portfolio Website]:On construction
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on exciting projects! 🚀
